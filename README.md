@@ -42,8 +42,18 @@ customize your project for almost any device – be it Mobile, Web or WebApp –
 * [Documentation](#documentation)
 * [Versioning](#versioning)
 * [Creators](#creators)
-* [Community](#community)
 * [Copyright and License](#copyright-and-license)
+
+## Repository Copy
+
+Clone the `playarea1` repository:
+
+```bash
+git clone https://github.com/playarea1/fleetpulse_admin.git
+cd fleetpulse_admin
+```
+
+This repository is based on the [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template).
 
 ## Versions
 
@@ -218,20 +228,12 @@ For more information on using the Angular CLI, including detailed command refere
 
 **Łukasz Holeczek**
 
-* <https://twitter.com/lukaszholeczek>
 * <https://github.com/mrholek>
 * <https://github.com/coreui>
 
 **CoreUI team**
 
 * https://github.com/orgs/coreui/people
-
-## Community
-
-Get updates on CoreUI's development and chat with the project maintainers and community members.
-
-- Follow [@core_ui on Twitter](https://twitter.com/core_ui).
-- Read and subscribe to [CoreUI Blog](https://coreui.io/blog/).
 
 ## Support CoreUI Development
 
